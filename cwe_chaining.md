@@ -1,1 +1,0 @@
-# CWE Chaining Specification
